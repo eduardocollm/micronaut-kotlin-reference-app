@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.kotlin.reference.app
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
